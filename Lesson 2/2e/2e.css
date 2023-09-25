@@ -1,0 +1,23 @@
+#apply {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    width: 215px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#save {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    font-weight: bold;
+    cursor: pointer;
+    height: 30px;
+    width: 70px;
+    border-width: 1px;
+    border-radius: 15px;
+}
