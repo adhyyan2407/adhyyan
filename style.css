@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
